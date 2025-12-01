@@ -1,2 +1,2 @@
-# Maquina-Emprendedora
-Creamos una maquina emprendedora virtual, funcional, utilizando lo aprendido en clase.
+# Maquina-Exprendedora
+Creamos una maquina exprendedora virtual, funcional, utilizando lo aprendido en clase.
